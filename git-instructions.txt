@@ -1,0 +1,10 @@
+git init  // Used to initialize a empty git repository (Only first time)
+git add .  // To include the files
+git commit -m "first commit"  // Comment for the project changes
+git remote add origin url_link // Get the project link from github
+git push -u origin master // Final Command to push the changes to the Github
+
+
+
+
+***** When ever a new file is added or you have done some changes in the code repeat the step 2 again.

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2be3db30-ff97-4047-bfee-04631003a45a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="162" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QaiYxre6dNA186TWdBabu4wlm4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DataDriven" />
+      <recent name="sam" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CHANCHAL\IdeaProjects\selenium\src\main\java\DataDriven" />
+      <recent name="C:\Users\CHANCHAL\IdeaProjects\selenium\src\main\java\sam" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CHANCHAL\IdeaProjects\selenium\src\main\java\DataDriven" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.readquery">
+    <configuration name="InsertDataToMySql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumtable.InsertDataToMySql" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadExcel" />
+      <module name="selenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readquery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumtable.readquery" />
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListenerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Listener.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Listener" />
+      <option name="MAIN_CLASS_NAME" value="Listener.ListenerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ParallelTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ParallelTest" />
+      <option name="MAIN_CLASS_NAME" value="ParallelTest.ParallelTest1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReadExcel" />
+      <item itemvalue="Application.readquery" />
+      <item itemvalue="Application.InsertDataToMySql" />
+      <item itemvalue="TestNG.ParallelTest1" />
+      <item itemvalue="TestNG.ListenerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.readquery" />
+        <item itemvalue="Application.InsertDataToMySql" />
+        <item itemvalue="TestNG.ListenerTest" />
+        <item itemvalue="TestNG.ParallelTest1" />
+        <item itemvalue="Application.ReadExcel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be3db30-ff97-4047-bfee-04631003a45a" name="Default Changelist" comment="" />
+      <created>1568015160262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568015160262</updated>
+      <workItem from="1568015181148" duration="4455000" />
+      <workItem from="1568026220365" duration="1875000" />
+      <workItem from="1568051540684" duration="739000" />
+      <workItem from="1568314228805" duration="512000" />
+      <workItem from="1568357872792" duration="600000" />
+      <workItem from="1568611819247" duration="599000" />
+      <workItem from="1568876052161" duration="8986000" />
+      <workItem from="1568960869509" duration="9053000" />
+      <workItem from="1569221324667" duration="170000" />
+      <workItem from="1569222071696" duration="5139000" />
+      <workItem from="1569261175687" duration="8791000" />
+      <workItem from="1569306750400" duration="14092000" />
+      <workItem from="1569387279584" duration="12849000" />
+      <workItem from="1569432700483" duration="1171000" />
+      <workItem from="1569482574184" duration="3438000" />
+      <workItem from="1569513955946" duration="3022000" />
+      <workItem from="1569561267916" duration="613000" />
+      <workItem from="1569564842882" duration="9840000" />
+      <workItem from="1569650468869" duration="4009000" />
+      <workItem from="1569822004117" duration="18558000" />
+      <workItem from="1569910182444" duration="3727000" />
+      <workItem from="1569999812445" duration="2310000" />
+      <workItem from="1570020987369" duration="1024000" />
+      <workItem from="1570169643254" duration="6419000" />
+      <workItem from="1570256664278" duration="599000" />
+      <workItem from="1570343436747" duration="1789000" />
+      <workItem from="1570435132708" duration="1528000" />
+      <workItem from="1570516862901" duration="1327000" />
+      <workItem from="1570603248160" duration="2177000" />
+      <workItem from="1570638711257" duration="607000" />
+      <workItem from="1570687920608" duration="15657000" />
+      <workItem from="1570730411310" duration="2074000" />
+      <workItem from="1570773391701" duration="5633000" />
+      <workItem from="1571035099016" duration="13396000" />
+      <workItem from="1571117400372" duration="15431000" />
+      <workItem from="1571210916082" duration="14169000" />
+      <workItem from="1571293112049" duration="5278000" />
+      <workItem from="1571334952041" duration="595000" />
+      <workItem from="1571382664117" duration="658000" />
+      <workItem from="1571389074061" duration="1908000" />
+      <workItem from="1571637990849" duration="12907000" />
+      <workItem from="1573112054768" duration="3457000" />
+      <workItem from="1573200737926" duration="5761000" />
+      <workItem from="1573452281480" duration="11441000" />
+      <workItem from="1573623830390" duration="2751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/selenium$GoogleSearchHandle.ic" NAME="GoogleSearchHandle Coverage Results" MODIFIED="1571069565111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/selenium$ListenerTest.ic" NAME="ListenerTest Coverage Results" MODIFIED="1571660419349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Listener.*</FILTER>
+    </SUITE>
+  </component>
+</project>
